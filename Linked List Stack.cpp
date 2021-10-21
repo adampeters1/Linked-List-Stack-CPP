@@ -1,3 +1,4 @@
+```C++
 #pragma warning( disable : 26451)    // Suppress casting double to unsigned int.
 
 #include "Linked List Stack.h"
@@ -443,3 +444,4 @@ int main()
 	system("pause");    // User input ends the program.
 	return 0;
 };
+```
